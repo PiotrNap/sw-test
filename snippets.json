@@ -1,0 +1,7 @@
+{
+  "html": {
+    "snippets": {
+      "test": "div.helloWorld*3{Hello World!}"
+    }
+  }
+}
